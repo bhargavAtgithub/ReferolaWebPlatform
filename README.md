@@ -1,2 +1,0 @@
-# ReferolaWebPlatform
-Created with CodeSandbox
